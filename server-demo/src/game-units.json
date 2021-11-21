@@ -1,0 +1,17 @@
+{
+    "tesla": {
+        "parts": {
+            "tower": {
+                "actionZone": 2,
+                "deadZone": 1
+            },
+            "heart": {
+                "mainPart": true,
+                "actionZone": 0
+            }
+        },
+
+        "cost": 10,
+        "label": "teslaLabel"
+    }
+}
